@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Projects and AI/ML
 - 🌱 I’m currently working on a SHEIN clone with dynamic fields for placeholder management via a Masterdata:
 - 🌱 Backend: Flask/Firebase/Axios/BeautifulSoup/
-- 🌱 Frontend: Vue/     
+- 🌱 Frontend: Vue/Vuex/Vue-router     
 - 💞️ I’m looking to collaborate with other developers
 - 📫 I'm always available @ linkedIn or hello@lotadigital.se
 
